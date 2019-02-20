@@ -1,4 +1,4 @@
-# GLCD_LPC2148 using ASK39_GLCD_INTERFACING_PCB
+# GLCD_LPC2148 using ASK39_GLCD_INTERFACING_PCB_EDUTECH
 This repository contains kiel project for glcd animation and text which has been interfaced using ARM7 based LPC2148.
 The project contains a gif image.
 Kindly use this file for educational purpose only.
